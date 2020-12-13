@@ -1,1 +1,1 @@
-Part 1 and my input
+Solutions to part 1&2 
